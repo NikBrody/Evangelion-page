@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "fonts.css",
+	"sources": [
+		"../sass/fonts.scss"
+	],
+	"sourcesContent": [
+		"@font-face {\r\n    font-family: \"Roboto\";\r\n    font-style: normal;\r\n    font-weight: 400;\r\n    src: local(\"Roboto\"),\r\n         url(\"../fonts/Roboto.woff2\") format(\"woff2\"),\r\n         url(\"../fonts/Roboto.woff\") format(\"woff\");\r\n  }\r\n\r\n@font-face {\r\n    font-family: \"Roboto\";\r\n    font-style: normal;\r\n    font-weight: 300;\r\n    src: local(\"Roboto\"),\r\n         url(\"../fonts/Robotolight.woff2\") format(\"woff2\"),\r\n         url(\"../fonts/Robotolight.woff\") format(\"woff\");\r\n  }\r\n\r\n@font-face {\r\n    font-family: \"Roboto\";\r\n    font-style: normal;\r\n    font-weight: 900;\r\n    src: local(\"Roboto\"),\r\n         url(\"../fonts/Robotoblack.woff2\") format(\"woff2\"),\r\n         url(\"../fonts/Robotoblack.woff\") format(\"woff\");\r\n  }\r\n\r\n  @font-face {\r\n    font-family: \"Roboto\";\r\n    font-style: normal;\r\n    font-weight: 700;\r\n    src: local(\"Roboto\"),\r\n         url(\"../fonts/Robotobold.woff2\") format(\"woff2\"),\r\n         url(\"../fonts/Robotobold.woff\") format(\"woff\");\r\n  }"
+	],
+	"names": [],
+	"mappings": "AAAA,UAAU;EACN,WAAW,EAAE,QAAQ;EACrB,UAAU,EAAE,MAAM;EAClB,WAAW,EAAE,GAAG;EAChB,GAAG,EAAE,eAAe,EACf,4BAA4B,CAAC,eAAe,EAC5C,2BAA2B,CAAC,cAAc;;;AAGnD,UAAU;EACN,WAAW,EAAE,QAAQ;EACrB,UAAU,EAAE,MAAM;EAClB,WAAW,EAAE,GAAG;EAChB,GAAG,EAAE,eAAe,EACf,iCAAiC,CAAC,eAAe,EACjD,gCAAgC,CAAC,cAAc;;;AAGxD,UAAU;EACN,WAAW,EAAE,QAAQ;EACrB,UAAU,EAAE,MAAM;EAClB,WAAW,EAAE,GAAG;EAChB,GAAG,EAAE,eAAe,EACf,iCAAiC,CAAC,eAAe,EACjD,gCAAgC,CAAC,cAAc;;;AAGtD,UAAU;EACR,WAAW,EAAE,QAAQ;EACrB,UAAU,EAAE,MAAM;EAClB,WAAW,EAAE,GAAG;EAChB,GAAG,EAAE,eAAe,EACf,gCAAgC,CAAC,eAAe,EAChD,+BAA+B,CAAC,cAAc"
+}
